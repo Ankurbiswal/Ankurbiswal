@@ -16,14 +16,14 @@
 
 I'm a third-year B.Tech student in AI & Data Science at **C.V. Raman Global University**, building production-grade agentic AI systems and full-stack web applications.
 
-My work lives at the intersection of explainable AI, autonomous agents, and real-world impact — whether that's helping MSME borrowers navigate credit denial or giving law students an AI-powered research platform.
+My work lives at the intersection of explainable AI, autonomous agents, and real-world impact
 
 - 🏆 **Top 100 of 30,000+** — Cognizant Neuro AI Multi-Agent Accelerator (Technoverse 2026, Banking & Lending Track)
 - 🤖 Building with **LangGraph · XGBoost · SHAP · RAG pipelines · LLMs**
 - 🏓 **National Level Table Tennis Athlete** — represented Odisha at national competitions
 - 🔬 **Summer Intern @ CSIR-IMMT** — applying AI to physical sciences research
 - 🌐 Currently working as **AI Lead & Developer @ Hope AI Technologies**
-
+- Built Mutiple Web Ai application for the need of market like Lexmentor,Studyfriend
 ---
 
 ## Featured Projects
